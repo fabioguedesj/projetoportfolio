@@ -20,4 +20,6 @@ Este portfólio foi um dos meus primeiros projetos no mundo da programação Fro
 
 ## Preview
 
-![](https://raw.githubusercontent.com/fabioguedesj/projetoportfolio/main/Resultado/Portfolio-CSS-HTML.png)
+<p align="center">
+  <img alt="Portfolio Preview" src="Resultado/Portfolio-CSS-HTML.png" width="400px" />
+</p>
