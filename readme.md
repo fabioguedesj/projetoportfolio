@@ -18,4 +18,6 @@ Este portfólio foi um dos meus primeiros projetos no mundo da programação Fro
 - Layout responsivo
 - Design de uma página estilo Landing Page
 
-## Imagens
+## Preview
+
+![](https://raw.githubusercontent.com/fabioguedesj/projetoportfolio/main/Resultado/Portfolio-CSS-HTML.png)
